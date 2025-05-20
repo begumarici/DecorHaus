@@ -26,6 +26,19 @@ namespace dotnet_store.Controllers
             return View(product);
         }
 
+        public IActionResult Search(string q)
+        {
+            var results = _context.Products
+                .Include(p => p.Category)
+                .Where(p => !string.IsNullOrEmpty(q) &&
+                            (p.Name.ToLower().Contains(q.ToLower()) ||
+                            p.Description.ToLower().Contains(q.ToLower())))
+                .ToList();
+
+            ViewBag.CategoryName = $"“{q}” için sonuçlar";
+            return View("List", results);
+        }
+
         public IActionResult List(int categoryId)
         {
             var category = _context.Categories.FirstOrDefault(c => c.CategoryId == categoryId);
@@ -75,9 +88,19 @@ namespace dotnet_store.Controllers
 
             if (ModelState.IsValid)
             {
-                _context.Products.Add(product);
-                _context.SaveChanges();
-                return RedirectToAction("AdminList");
+                try
+                {
+                    _context.Products.Add(product);
+                    int affected = _context.SaveChanges();
+
+                    Console.WriteLine($"[DEBUG] Eklenen satır: {affected}");
+
+                    return RedirectToAction("AdminList");
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("[HATA] SaveChanges başarısız: " + ex.Message);
+                }
             }
 
             ViewBag.Categories = GetSelectListCategories();

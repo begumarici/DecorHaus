@@ -35,15 +35,13 @@
 
         <!-- Sağ ikonlar -->
         <div class="d-flex gap-3 align-items-center">
-            <a href="#" class="text-dark"><i class="fas fa-search"></i></a>
-            
+            <form asp-controller="Product" asp-action="Search" method="get" class="d-flex" role="search">
+                <input class="form-control form-control-sm me-2" type="search" name="q" placeholder="Ara..." />
+                <button class="btn btn-outline-dark btn-sm" type="submit"><i class="fas fa-search"></i></button>
+            </form>
+
             <a asp-controller="Account" asp-action="Login" class="text-dark">
                 <i class="fas fa-user"></i>
-            </a>
-
-            <a href="#" class="position-relative text-dark">
-                <i class="far fa-heart"></i>
-                <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-dark">0</span>
             </a>
             <a href="/Cart/Index" class="position-relative text-dark">
                 <i class="fas fa-shopping-cart"></i>

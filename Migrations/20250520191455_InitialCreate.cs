@@ -43,6 +43,21 @@ namespace dotnet_store.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Users",
+                columns: table => new
+                {
+                    UserId = table.Column<int>(type: "INTEGER", nullable: false)
+                        .Annotation("Sqlite:Autoincrement", true),
+                    Username = table.Column<string>(type: "TEXT", nullable: false),
+                    Password = table.Column<string>(type: "TEXT", nullable: false),
+                    Role = table.Column<string>(type: "TEXT", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Users", x => x.UserId);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Products",
                 columns: table => new
                 {
@@ -70,11 +85,11 @@ namespace dotnet_store.Migrations
                 columns: new[] { "CategoryId", "CategoryName" },
                 values: new object[,]
                 {
-                    { 1, "Aydınlatma" },
-                    { 2, "Saat" },
-                    { 3, "Saksı" },
-                    { 4, "Mumluk" },
-                    { 5, "Tütsülük" }
+                    { 1, "Koltuk" },
+                    { 2, "Masa" },
+                    { 3, "Sandalye" },
+                    { 4, "Sehpa" },
+                    { 5, "Dolap" }
                 });
 
             migrationBuilder.InsertData(
@@ -82,8 +97,17 @@ namespace dotnet_store.Migrations
                 columns: new[] { "SliderId", "Description", "DisplayIndex", "ImageUrl", "IsActive", "Title" },
                 values: new object[,]
                 {
-                    { 1, "Dekoratif ürünlerde modern çizgiler", 0, "/images/slider1.png", true, "Yeni Sezon" },
-                    { 2, "Favori ürünleri keşfet", 1, "/images/slider2.png", true, "En Çok Satanlar" }
+                    { 1, "Evini yenilemek için ilham verici mobilyalar", 0, "/images/slider1.jpg", true, "Modern Yaşam Alanları" },
+                    { 2, "En çok tercih edilen koltuk ve masa takımları burada", 1, "/images/slider2.jpg", true, "Konfor & Şıklık" }
+                });
+
+            migrationBuilder.InsertData(
+                table: "Users",
+                columns: new[] { "UserId", "Password", "Role", "Username" },
+                values: new object[,]
+                {
+                    { 1, "1234", "admin", "admin" },
+                    { 2, "5678", "user", "begum" }
                 });
 
             migrationBuilder.InsertData(
@@ -91,8 +115,11 @@ namespace dotnet_store.Migrations
                 columns: new[] { "ProductId", "CategoryId", "Description", "ImageUrl", "Name", "Price" },
                 values: new object[,]
                 {
-                    { 1, 1, "Modern tasarımlı masa lambası.", "/images/masa-lambasi1.jpg", "Masa Lambası", 1000.0 },
-                    { 2, 1, "Modern tasarımlı masa lambası.", "/images/spiral-masa-lambasi.jpg", "Spiral Masa Lambası", 1000.0 }
+                    { 1, 1, "Minimalist tarzda, rahat oturumlu 3 kişilik koltuk.", "/images/koltuk.jpg", "İskandinav Koltuk", 1000.0 },
+                    { 2, 2, "Masif meşe ağacından üretilmiş 6 kişilik yemek masası.", "/images/masa.jpg", "Doğal Ahşap Masa", 1000.0 },
+                    { 3, 3, "Ergonomik oturumlu, modern tarzda sandalye.", "/images/sandalye.jpg", "Sandalye", 800.0 },
+                    { 4, 4, "Orta sehpa olarak kullanılabilecek modern yuvarlak sehpa.", "/images/sehpa.jpg", "Kare Ahşap Sehpa", 700.0 },
+                    { 5, 5, "Küçük alanlar için ideal, sade tasarımlı dolap.", "/images/dolap.jpg", "Minimal Dolap", 1200.0 }
                 });
 
             migrationBuilder.CreateIndex(
@@ -109,6 +136,9 @@ namespace dotnet_store.Migrations
 
             migrationBuilder.DropTable(
                 name: "Sliders");
+
+            migrationBuilder.DropTable(
+                name: "Users");
 
             migrationBuilder.DropTable(
                 name: "Categories");

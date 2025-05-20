@@ -10,8 +10,8 @@ using dotnet_store.Models;
 namespace dotnet_store.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20250520181136_AddUserTable")]
-    partial class AddUserTable
+    [Migration("20250520191455_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -190,20 +190,37 @@ namespace dotnet_store.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<string>("Email")
+                    b.Property<string>("Password")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Name")
+                    b.Property<string>("Role")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("Password")
+                    b.Property<string>("Username")
                         .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("UserId");
 
                     b.ToTable("Users");
+
+                    b.HasData(
+                        new
+                        {
+                            UserId = 1,
+                            Password = "1234",
+                            Role = "admin",
+                            Username = "admin"
+                        },
+                        new
+                        {
+                            UserId = 2,
+                            Password = "5678",
+                            Role = "user",
+                            Username = "begum"
+                        });
                 });
 
             modelBuilder.Entity("dotnet_store.Models.Product", b =>

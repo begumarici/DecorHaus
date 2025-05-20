@@ -1,13 +1,26 @@
 namespace dotnet_store.Models;
 
+using System.ComponentModel.DataAnnotations;
+
 public class Product
 {
     public int ProductId { get; set; }
-    public string Name { get; set; } = null!;
+
+    [Required]
+    public string? Name { get; set; }
+
+    [Required]
     public string? Description { get; set; }
-    public double Price { get; set; }
+
+    [Required]
+    [Range(1, double.MaxValue, ErrorMessage = "Fiyat 0'dan büyük olmalıdır.")]
+    public decimal Price { get; set; }
+
+    [Required]
     public string? ImageUrl { get; set; }
 
+    [Required]
     public int CategoryId { get; set; }
-    public Category Category { get; set; } = null!;
+
+    public Category? Category { get; set; }
 }

@@ -1,0 +1,35 @@
+@model dotnet_store.Models.Product
+
+@{
+    ViewData["Title"] = "Ürünü Düzenle";
+}
+
+<div class="container py-5">
+    <h2 class="mb-4 fw-bold">Ürünü Düzenle</h2>
+
+    <form asp-action="Edit" method="post">
+        <input type="hidden" asp-for="ProductId" />
+
+        <div class="mb-3">
+            <label>Ürün Adı</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label>Açıklama</label>
+            <textarea asp-for="Description" class="form-control"></textarea>
+        </div>
+        <div class="mb-3">
+            <label>Fiyat</label>
+            <input asp-for="Price" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label>Görsel URL</label>
+            <input asp-for="ImageUrl" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label>Kategori</label>
+            <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control"></select>
+        </div>
+        <button type="submit" class="btn btn-dark">Kaydet</button>
+    </form>
+</div>

@@ -1,4 +1,5 @@
 @model dotnet_store.Models.Product
+
 @{
     ViewData["Title"] = "Yeni Ürün Ekle";
 }
@@ -8,25 +9,39 @@
 
     <form asp-action="Add" method="post">
         <div class="mb-3">
-            <label>Ürün Adı</label>
+            <label asp-for="Name" class="form-label">Ürün Adı</label>
             <input asp-for="Name" class="form-control" />
+            <span class="text-danger" asp-validation-for="Name"></span>
         </div>
+
         <div class="mb-3">
-            <label>Açıklama</label>
+            <label asp-for="Description" class="form-label">Açıklama</label>
             <textarea asp-for="Description" class="form-control"></textarea>
+            <span class="text-danger" asp-validation-for="Description"></span>
         </div>
+
         <div class="mb-3">
-            <label>Fiyat</label>
+            <label asp-for="Price" class="form-label">Fiyat</label>
             <input asp-for="Price" class="form-control" />
+            <span class="text-danger" asp-validation-for="Price"></span>
         </div>
+
         <div class="mb-3">
-            <label>Görsel URL</label>
+            <label asp-for="ImageUrl" class="form-label">Görsel URL</label>
             <input asp-for="ImageUrl" class="form-control" />
+            <span class="text-danger" asp-validation-for="ImageUrl"></span>
         </div>
+
         <div class="mb-3">
-            <label>Kategori</label>
+            <label asp-for="CategoryId" class="form-label">Kategori</label>
             <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control"></select>
+            <span class="text-danger" asp-validation-for="CategoryId"></span>
         </div>
+
         <button type="submit" class="btn btn-dark">Kaydet</button>
     </form>
 </div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

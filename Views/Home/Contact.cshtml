@@ -1,0 +1,44 @@
+@model dotnet_store.Models.ContactFormModel
+
+<section class="container my-5" style="max-width: 600px;">
+    <h2 class="fw-bold text-center mb-4">İLETİŞİM FORMU</h2>
+    <p class="text-center text-muted mb-4">Her türlü soru, öneri ve iş birliği talepleriniz için aşağıdaki formu doldurarak bizimle iletişime geçebilirsiniz.</p>
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+
+    <form method="post" asp-action="Contact">
+        <div class="mb-3">
+            <label>Adınız (Gerekli)</label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label>Mail Adresiniz (Gerekli)</label>
+            <input asp-for="Email" type="email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label>Konu (Gerekli)</label>
+            <input asp-for="Subject" class="form-control" />
+            <span asp-validation-for="Subject" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label>Mesajınız (Gerekli)</label>
+            <textarea asp-for="Message" class="form-control" rows="4"></textarea>
+            <span asp-validation-for="Message" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label>6 + 6 = ? Soruyu cevaplayın (Gerekli)</label>
+            <input asp-for="Captcha" class="form-control" />
+            <span asp-validation-for="Captcha" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-dark w-100 fw-bold">GÖNDER</button>
+    </form>
+</section>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

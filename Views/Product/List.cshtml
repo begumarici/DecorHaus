@@ -1,0 +1,61 @@
+@model List<dotnet_store.Models.Product>
+@{
+    ViewData["Title"] = "Ürünler";
+    var categoryName = ViewBag.CategoryName as string ?? "Kategori";
+}
+
+<div class="container my-5">
+
+    <div class="row">
+        <!-- Sol filtre -->
+        <div class="col-md-3">
+            <h5 class="fw-bold">ÜRÜN KATEGORİLERİ</h5>
+            <ul class="list-unstyled">
+                <li><a href="/category/1" class="text-dark text-decoration-none">Aydınlatma</a></li>
+                <li><a href="/category/2" class="text-dark text-decoration-none">Saat</a></li>
+                <li><a href="#"  class="text-dark text-decoration-none">Saksı</a></li>
+                <li><a href="#"  class="text-dark text-decoration-none">Mumluk</a></li>
+                <li><a href="#"  class="text-dark text-decoration-none">Tütsülük</a></li>
+            </ul>
+            <hr />
+        </div>
+
+        <!-- Ürünler -->
+        <div class="col-md-9">
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+                @foreach (var item in Model)
+                {
+                    <div class="col">
+                        <div class="card border-0 shadow-sm">
+                            <div class="position-relative">
+                                <a asp-controller="Product" asp-action="Details" asp-route-id="@item.ProductId">
+                                    <img src="@item.ImageUrl" class="card-img-top" alt="@item.Name" />
+                                </a>
+                                <span class="position-absolute top-0 start-0 m-2 badge bg-dark">-20%</span>
+                                <span class="position-absolute top-0 start-50 translate-middle-x mt-2 badge bg-success">YENİ</span>
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title">
+                                    <a asp-controller="Product" asp-action="Details" asp-route-id="@item.ProductId" class="text-dark text-decoration-none">
+                                        @item.Name
+                                    </a>
+                                </h5>
+                                <small class="text-muted">@item.Category?.CategoryName</small>
+                                <div class="mt-2">
+                                    <del class="text-muted">₺1.250,00</del>
+                                    <span class="fw-bold text-dark ms-2">@item.Price.ToString("C")</span>
+                                </div>
+                            </div>
+                            <div class="card-footer bg-white border-top-0">
+                            <form asp-controller="Cart" asp-action="AddToCart" method="post">
+                                <input type="hidden" name="id" value="@item.ProductId" />
+                                <button type="submit" class="btn btn-light w-100 fw-bold">SEPETE EKLE</button>
+                            </form>
+                        </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

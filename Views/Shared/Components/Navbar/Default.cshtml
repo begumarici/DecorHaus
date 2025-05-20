@@ -1,0 +1,47 @@
+@model List<dotnet_store.Models.Category>
+
+<nav class="navbar navbar-expand-lg bg-white border-bottom py-3">
+    <div class="container">
+        <!-- Logo -->
+        <a class="navbar-brand fw-bold fs-4 text-dark" href="/">Benlight Studio.</a>
+
+        <!-- Hamburger toggle -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Menü -->
+        <div class="collapse navbar-collapse justify-content-center" id="mainNavbar">
+            <ul class="navbar-nav gap-3">
+                <li class="nav-item">
+                    <a class="nav-link fw-bold text-dark" href="/">ANA SAYFA</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-secondary fw-bold" asp-controller="Product" asp-action="ListAll">ÜRÜNLER</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-secondary" href="#">HAKKIMIZDA</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-secondary" asp-controller="Home" asp-action="Contact">İLETİŞİM</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- Sağ ikonlar -->
+        <div class="d-flex gap-3 align-items-center">
+            <a href="#" class="text-dark"><i class="fas fa-search"></i></a>
+            <a href="#" class="text-dark"><i class="fas fa-user"></i></a>
+            <a href="#" class="position-relative text-dark">
+                <i class="far fa-heart"></i>
+                <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-dark">0</span>
+            </a>
+            <a href="/Cart/Index" class="position-relative text-dark">
+                <i class="fas fa-shopping-cart"></i>
+                <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-dark">
+                    @(ViewBag.CartCount ?? 0)
+                </span>
+            </a>
+        </div>
+    </div>
+</nav>

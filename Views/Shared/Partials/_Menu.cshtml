@@ -1,0 +1,8 @@
+@model List<dotnet_store.Models.Category>
+
+<nav class="nav nav-pills flex-column flex-nowrap overflow-auto slider_nav">
+    @foreach (var category in Model)
+    {
+        <a href="/category/@category.CategoryId" class="nav-link">@category.CategoryName</a>
+    }
+</nav>

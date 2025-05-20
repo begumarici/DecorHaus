@@ -1,0 +1,72 @@
+@model dotnet_store.Models.Product
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<div class="container py-5">
+    <div class="row g-4">
+        <!-- Sol taraf: galeri -->
+        <div class="col-md-6">
+            <div class="gallery-wrap">
+                <div class="img-big-wrap mb-3">
+                    <img src="@Model.ImageUrl" class="img-fluid rounded shadow-sm" alt="@Model.Name" />
+                </div>
+
+                <div class="thumbs-wrap d-flex gap-2">
+                    <img src="@Model.ImageUrl" class="img-thumbnail" style="width: 80px;" />
+                    <img src="@Model.ImageUrl" class="img-thumbnail" style="width: 80px;" />
+                    <img src="@Model.ImageUrl" class="img-thumbnail" style="width: 80px;" />
+                </div>
+            </div>
+        </div>
+
+        <!-- Sağ taraf: ürün bilgisi -->
+        <div class="col-md-6">
+            <h2>@Model.Name</h2>
+
+            <p class="text-muted">
+                <del>₺1.250,00</del> <span class="fs-4 fw-bold text-dark ms-2">@Model.Price.ToString("C")</span>
+            </p>
+
+            <p class="text-muted"><strong>Benlight Studio®</strong> tarafından tasarlanmıştır.</p>
+
+            <div class="mb-3">
+                <label class="form-label fw-bold">Taban Rengi :</label>
+                <div class="d-flex gap-2">
+                    <button class="btn btn-outline-dark rounded-circle" style="width: 30px; height: 30px;"></button>
+                    <button class="btn btn-outline-warning rounded-circle" style="width: 30px; height: 30px;"></button>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <span class="badge bg-success"><i class="fa-solid fa-check"></i> 1 adet stokta</span>
+            </div>
+
+            <div class="d-flex gap-2 mb-3">
+                <button class="btn btn-outline-dark fw-bold">SEPETE EKLE</button>
+                <button class="btn btn-light fw-bold">HEMEN AL</button>
+            </div>
+
+            <div class="mb-3">
+                <a href="#" class="text-muted"><i class="far fa-heart me-2"></i>Favorilere ekle</a>
+            </div>
+
+            <p><strong>Stok kodu:</strong> MS-02-S</p>
+            <p>
+                <strong>Kategoriler:</strong>
+                @if (Model.Category != null)
+                {
+                    <span>@Model.Category.CategoryName</span>
+                }
+            </p>
+
+            <div class="d-flex gap-3">
+                <span><strong>Paylaş:</strong></span>
+                <i class="fab fa-facebook-f text-muted"></i>
+                <i class="fab fa-pinterest text-muted"></i>
+                <i class="fab fa-whatsapp text-muted"></i>
+                <i class="fab fa-telegram text-muted"></i>
+            </div>
+        </div>
+    </div>
+</div>

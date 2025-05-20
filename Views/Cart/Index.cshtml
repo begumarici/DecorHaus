@@ -1,0 +1,71 @@
+@model List<dotnet_store.Models.CartItem>
+
+<section class="container my-5">
+    <h2 class="fw-bold mb-4">Sepet</h2>
+    <div class="row">
+        <div class="col-lg-8">
+            <table class="table align-middle">
+                <thead class="border-bottom">
+                    <tr>
+                        <th scope="col">ÜRÜN</th>
+                        <th scope="col">FİYAT</th>
+                        <th scope="col">MİKTAR</th>
+                        <th scope="col">ARA TOPLAM</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="d-flex align-items-center gap-3">
+                                <img src="@item.ImageUrl" alt="@item.ProductName" width="70" class="rounded">
+                                <div>
+                                    <div class="fw-bold">@item.ProductName</div>
+                                    <small class="text-muted">SKU: @item.ProductId</small>
+                                </div>
+                            </td>
+                            <td>@item.Price.ToString("C")</td>
+                            <td>
+                            <div class="input-group" style="max-width: 120px;">
+                                <a asp-action="Decrease" asp-route-id="@item.ProductId" class="btn btn-outline-secondary">-</a>
+                                <input type="text" class="form-control text-center" value="@item.Quantity" readonly />
+                                <a asp-action="Increase" asp-route-id="@item.ProductId" class="btn btn-outline-secondary">+</a>
+                            </div>
+                        </td>
+                        <td>@(item.Price * item.Quantity).ToString("C")</td>
+                            <td>
+                            <a asp-action="Remove" asp-route-id="@item.ProductId" class="btn btn-sm btn-outline-danger">×</a>
+                        </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <div class="col-lg-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title fw-bold">SEPET TOPLAMLARI</h5>
+                    <ul class="list-unstyled mb-3">
+                        <li class="d-flex justify-content-between">
+                            <span>Ara Toplam</span>
+                            <strong>
+                                @Model.Sum(i => i.Price * i.Quantity).ToString("C")
+                            </strong>
+                        </li>
+                        <li class="d-flex justify-content-between small text-muted border-top pt-2">
+                            <span>Gönderim</span>
+                            <span>Free shipping</span>
+                        </li>
+                    </ul>
+                    <div class="d-flex justify-content-between fs-5 border-top pt-2">
+                        <strong>Toplam</strong>
+                        <strong>@Model.Sum(i => i.Price * i.Quantity).ToString("C")</strong>
+                    </div>
+                    <a href="#" class="btn btn-dark w-100 mt-3">ÖDEME SAYFASINA GİT</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

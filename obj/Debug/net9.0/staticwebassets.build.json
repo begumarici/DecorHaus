@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W1PEacB4/bvvYGTKcm73h0HrmfLXhTAi/bBO2C3oUfs=",
+  "Hash": "f5n80oPSH6tTo+sRy5ef7037OtFL+DHbKShG+rcbSHE=",
   "Source": "dotnet-store",
   "BasePath": "_content/dotnet-store",
   "Mode": "Default",
@@ -120,27 +120,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/favicon.ico"
-    },
-    {
-      "Identity": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/48lvmql9bb-wqhl0zxvjx.gz",
-      "SourceId": "dotnet-store",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/dotnet-store",
-      "RelativePath": "e-commerce/index#[.{fingerprint=wqhl0zxvjx}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/index.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "aq34iqpxel",
-      "Integrity": "HkoafA3nBMqC/D20g404IZYtCOrPFo19YymEdNn4SmA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/index.html"
     },
     {
       "Identity": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/4e12ivfcij-iovd86k7lj.gz",
@@ -1214,27 +1193,6 @@
       "OriginalItemSpec": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/v6fbf8u7hm-l6j59c68gs.gz",
-      "SourceId": "dotnet-store",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/dotnet-store",
-      "RelativePath": "e-commerce/shopping-cart#[.{fingerprint=l6j59c68gs}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/shopping-cart.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "a01znfykfi",
-      "Integrity": "Jt2VBTJT1sfuoUx072C7BW1TLdmW//jwc0jHOIBgCB8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/shopping-cart.html"
-    },
-    {
       "Identity": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/v84g1f8xb7-mrlpezrjn3.gz",
       "SourceId": "dotnet-store",
       "SourceType": "Discovered",
@@ -1361,27 +1319,6 @@
       "OriginalItemSpec": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/ybqhv9wpbv-vwipl5cvsg.gz",
-      "SourceId": "dotnet-store",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/dotnet-store",
-      "RelativePath": "e-commerce/details#[.{fingerprint=vwipl5cvsg}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/details.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "kcg8r77d19",
-      "Integrity": "PNQTvp88XSv2hz8v6uOzAC+qVv/IQx6bMpxsrBAGl4A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/details.html"
-    },
-    {
       "Identity": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/z0lqrdovhm-ee0r1s7dh0.gz",
       "SourceId": "dotnet-store",
       "SourceType": "Discovered",
@@ -1422,69 +1359,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/styles.css"
-    },
-    {
-      "Identity": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/details.html",
-      "SourceId": "dotnet-store",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/",
-      "BasePath": "_content/dotnet-store",
-      "RelativePath": "e-commerce/details#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "vwipl5cvsg",
-      "Integrity": "Aeuz720WoJ2PxkyfObl5bZcL0AxNIl24O5HOlNZXkHM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/e-commerce/details.html"
-    },
-    {
-      "Identity": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/index.html",
-      "SourceId": "dotnet-store",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/",
-      "BasePath": "_content/dotnet-store",
-      "RelativePath": "e-commerce/index#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "wqhl0zxvjx",
-      "Integrity": "6HYKaD6bKlvi4a9bYZq+q4frgCqoGcHk/Jh0zb8rgMs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/e-commerce/index.html"
-    },
-    {
-      "Identity": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/shopping-cart.html",
-      "SourceId": "dotnet-store",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/",
-      "BasePath": "_content/dotnet-store",
-      "RelativePath": "e-commerce/shopping-cart#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "l6j59c68gs",
-      "Integrity": "o1b5YzAf5u+kFjCUbdSfEfLFlpljITN90OzyzRL6WvI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/e-commerce/shopping-cart.html"
     },
     {
       "Identity": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/favicon.ico",
@@ -1571,6 +1445,48 @@
       "OriginalItemSpec": "wwwroot/images/masa.jpg"
     },
     {
+      "Identity": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/mastercard.png",
+      "SourceId": "dotnet-store",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/",
+      "BasePath": "_content/dotnet-store",
+      "RelativePath": "images/mastercard#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ajt0z1pp29",
+      "Integrity": "hgxvNfLgT48CkI8G+7yw1b5ocIOQj/MT3j6zVomTuk4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/mastercard.png"
+    },
+    {
+      "Identity": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/paypal.png",
+      "SourceId": "dotnet-store",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/",
+      "BasePath": "_content/dotnet-store",
+      "RelativePath": "images/paypal#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oarhudg7mm",
+      "Integrity": "cJbqEFKZTckQibcB20XiySTLspd5SRHMRp4JoBFPQek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/paypal.png"
+    },
+    {
       "Identity": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/sandalye.jpg",
       "SourceId": "dotnet-store",
       "SourceType": "Discovered",
@@ -1653,6 +1569,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/slider2.jpg"
+    },
+    {
+      "Identity": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/visa.png",
+      "SourceId": "dotnet-store",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/",
+      "BasePath": "_content/dotnet-store",
+      "RelativePath": "images/visa#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0xv8billx2",
+      "Integrity": "bKnvO1jYB7Lao9yUL0RBadWNpAcrlvLWPacl1lGVCMQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/visa.png"
     },
     {
       "Identity": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/js/fslightbox.js",
@@ -3257,900 +3194,6 @@
       ]
     },
     {
-      "Route": "e-commerce/details.html",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/ybqhv9wpbv-vwipl5cvsg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000506585613"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1973"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PNQTvp88XSv2hz8v6uOzAC+qVv/IQx6bMpxsrBAGl4A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 16:08:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Aeuz720WoJ2PxkyfObl5bZcL0AxNIl24O5HOlNZXkHM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Aeuz720WoJ2PxkyfObl5bZcL0AxNIl24O5HOlNZXkHM="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/details.html",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/details.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13007"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Aeuz720WoJ2PxkyfObl5bZcL0AxNIl24O5HOlNZXkHM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 16:08:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Aeuz720WoJ2PxkyfObl5bZcL0AxNIl24O5HOlNZXkHM="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/details.html.gz",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/ybqhv9wpbv-vwipl5cvsg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1973"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PNQTvp88XSv2hz8v6uOzAC+qVv/IQx6bMpxsrBAGl4A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 16:08:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PNQTvp88XSv2hz8v6uOzAC+qVv/IQx6bMpxsrBAGl4A="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/details.vwipl5cvsg.html",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/ybqhv9wpbv-vwipl5cvsg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000506585613"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1973"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PNQTvp88XSv2hz8v6uOzAC+qVv/IQx6bMpxsrBAGl4A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 16:08:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Aeuz720WoJ2PxkyfObl5bZcL0AxNIl24O5HOlNZXkHM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vwipl5cvsg"
-        },
-        {
-          "Name": "label",
-          "Value": "e-commerce/details.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Aeuz720WoJ2PxkyfObl5bZcL0AxNIl24O5HOlNZXkHM="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/details.vwipl5cvsg.html",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/details.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13007"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Aeuz720WoJ2PxkyfObl5bZcL0AxNIl24O5HOlNZXkHM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 16:08:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vwipl5cvsg"
-        },
-        {
-          "Name": "label",
-          "Value": "e-commerce/details.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Aeuz720WoJ2PxkyfObl5bZcL0AxNIl24O5HOlNZXkHM="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/details.vwipl5cvsg.html.gz",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/ybqhv9wpbv-vwipl5cvsg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1973"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PNQTvp88XSv2hz8v6uOzAC+qVv/IQx6bMpxsrBAGl4A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 16:08:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vwipl5cvsg"
-        },
-        {
-          "Name": "label",
-          "Value": "e-commerce/details.html.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PNQTvp88XSv2hz8v6uOzAC+qVv/IQx6bMpxsrBAGl4A="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/index.html",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/48lvmql9bb-wqhl0zxvjx.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000508388409"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1966"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HkoafA3nBMqC/D20g404IZYtCOrPFo19YymEdNn4SmA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"6HYKaD6bKlvi4a9bYZq+q4frgCqoGcHk/Jh0zb8rgMs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6HYKaD6bKlvi4a9bYZq+q4frgCqoGcHk/Jh0zb8rgMs="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/index.html",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15379"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6HYKaD6bKlvi4a9bYZq+q4frgCqoGcHk/Jh0zb8rgMs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6HYKaD6bKlvi4a9bYZq+q4frgCqoGcHk/Jh0zb8rgMs="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/index.html.gz",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/48lvmql9bb-wqhl0zxvjx.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1966"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HkoafA3nBMqC/D20g404IZYtCOrPFo19YymEdNn4SmA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HkoafA3nBMqC/D20g404IZYtCOrPFo19YymEdNn4SmA="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/index.wqhl0zxvjx.html",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/48lvmql9bb-wqhl0zxvjx.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000508388409"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1966"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HkoafA3nBMqC/D20g404IZYtCOrPFo19YymEdNn4SmA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"6HYKaD6bKlvi4a9bYZq+q4frgCqoGcHk/Jh0zb8rgMs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wqhl0zxvjx"
-        },
-        {
-          "Name": "label",
-          "Value": "e-commerce/index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6HYKaD6bKlvi4a9bYZq+q4frgCqoGcHk/Jh0zb8rgMs="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/index.wqhl0zxvjx.html",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15379"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6HYKaD6bKlvi4a9bYZq+q4frgCqoGcHk/Jh0zb8rgMs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wqhl0zxvjx"
-        },
-        {
-          "Name": "label",
-          "Value": "e-commerce/index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6HYKaD6bKlvi4a9bYZq+q4frgCqoGcHk/Jh0zb8rgMs="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/index.wqhl0zxvjx.html.gz",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/48lvmql9bb-wqhl0zxvjx.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1966"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HkoafA3nBMqC/D20g404IZYtCOrPFo19YymEdNn4SmA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wqhl0zxvjx"
-        },
-        {
-          "Name": "label",
-          "Value": "e-commerce/index.html.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HkoafA3nBMqC/D20g404IZYtCOrPFo19YymEdNn4SmA="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/shopping-cart.html",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/v6fbf8u7hm-l6j59c68gs.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000625000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1599"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jt2VBTJT1sfuoUx072C7BW1TLdmW//jwc0jHOIBgCB8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"o1b5YzAf5u+kFjCUbdSfEfLFlpljITN90OzyzRL6WvI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-o1b5YzAf5u+kFjCUbdSfEfLFlpljITN90OzyzRL6WvI="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/shopping-cart.html",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/shopping-cart.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13298"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"o1b5YzAf5u+kFjCUbdSfEfLFlpljITN90OzyzRL6WvI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-o1b5YzAf5u+kFjCUbdSfEfLFlpljITN90OzyzRL6WvI="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/shopping-cart.html.gz",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/v6fbf8u7hm-l6j59c68gs.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1599"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jt2VBTJT1sfuoUx072C7BW1TLdmW//jwc0jHOIBgCB8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jt2VBTJT1sfuoUx072C7BW1TLdmW//jwc0jHOIBgCB8="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/shopping-cart.l6j59c68gs.html",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/v6fbf8u7hm-l6j59c68gs.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000625000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1599"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jt2VBTJT1sfuoUx072C7BW1TLdmW//jwc0jHOIBgCB8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"o1b5YzAf5u+kFjCUbdSfEfLFlpljITN90OzyzRL6WvI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "l6j59c68gs"
-        },
-        {
-          "Name": "label",
-          "Value": "e-commerce/shopping-cart.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-o1b5YzAf5u+kFjCUbdSfEfLFlpljITN90OzyzRL6WvI="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/shopping-cart.l6j59c68gs.html",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/shopping-cart.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13298"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"o1b5YzAf5u+kFjCUbdSfEfLFlpljITN90OzyzRL6WvI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "l6j59c68gs"
-        },
-        {
-          "Name": "label",
-          "Value": "e-commerce/shopping-cart.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-o1b5YzAf5u+kFjCUbdSfEfLFlpljITN90OzyzRL6WvI="
-        }
-      ]
-    },
-    {
-      "Route": "e-commerce/shopping-cart.l6j59c68gs.html.gz",
-      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/v6fbf8u7hm-l6j59c68gs.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1599"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jt2VBTJT1sfuoUx072C7BW1TLdmW//jwc0jHOIBgCB8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "l6j59c68gs"
-        },
-        {
-          "Name": "label",
-          "Value": "e-commerce/shopping-cart.html.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jt2VBTJT1sfuoUx072C7BW1TLdmW//jwc0jHOIBgCB8="
-        }
-      ]
-    },
-    {
       "Route": "favicon.61n19gt1b8.ico",
       "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/2v6xp16du8-61n19gt1b8.gz",
       "Selectors": [
@@ -4695,6 +3738,170 @@
       ]
     },
     {
+      "Route": "images/mastercard.ajt0z1pp29.png",
+      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/mastercard.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hgxvNfLgT48CkI8G+7yw1b5ocIOQj/MT3j6zVomTuk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 19:53:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ajt0z1pp29"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mastercard.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hgxvNfLgT48CkI8G+7yw1b5ocIOQj/MT3j6zVomTuk4="
+        }
+      ]
+    },
+    {
+      "Route": "images/mastercard.png",
+      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/mastercard.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "428221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hgxvNfLgT48CkI8G+7yw1b5ocIOQj/MT3j6zVomTuk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 19:53:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hgxvNfLgT48CkI8G+7yw1b5ocIOQj/MT3j6zVomTuk4="
+        }
+      ]
+    },
+    {
+      "Route": "images/paypal.oarhudg7mm.png",
+      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/paypal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cJbqEFKZTckQibcB20XiySTLspd5SRHMRp4JoBFPQek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 19:54:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oarhudg7mm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/paypal.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cJbqEFKZTckQibcB20XiySTLspd5SRHMRp4JoBFPQek="
+        }
+      ]
+    },
+    {
+      "Route": "images/paypal.png",
+      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/paypal.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cJbqEFKZTckQibcB20XiySTLspd5SRHMRp4JoBFPQek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 19:54:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cJbqEFKZTckQibcB20XiySTLspd5SRHMRp4JoBFPQek="
+        }
+      ]
+    },
+    {
       "Route": "images/sandalye.ckrj3h90lt.jpg",
       "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/sandalye.jpg",
       "Selectors": [],
@@ -5019,6 +4226,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-1vrjv6lgvAFDteDJbN/tagPE28ccgT0SFhNntq2iVCA="
+        }
+      ]
+    },
+    {
+      "Route": "images/visa.0xv8billx2.png",
+      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/visa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70898"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bKnvO1jYB7Lao9yUL0RBadWNpAcrlvLWPacl1lGVCMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 19:52:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0xv8billx2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/visa.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bKnvO1jYB7Lao9yUL0RBadWNpAcrlvLWPacl1lGVCMQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/visa.png",
+      "AssetFile": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/visa.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70898"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bKnvO1jYB7Lao9yUL0RBadWNpAcrlvLWPacl1lGVCMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 19:52:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bKnvO1jYB7Lao9yUL0RBadWNpAcrlvLWPacl1lGVCMQ="
         }
       ]
     },

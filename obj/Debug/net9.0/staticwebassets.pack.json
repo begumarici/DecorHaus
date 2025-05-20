@@ -5,18 +5,6 @@
       "PackagePath": "staticwebassets/css/styles.css"
     },
     {
-      "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/details.html",
-      "PackagePath": "staticwebassets/e-commerce/details.html"
-    },
-    {
-      "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/index.html",
-      "PackagePath": "staticwebassets/e-commerce/index.html"
-    },
-    {
-      "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/e-commerce/shopping-cart.html",
-      "PackagePath": "staticwebassets/e-commerce/shopping-cart.html"
-    },
-    {
       "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
@@ -33,6 +21,14 @@
       "PackagePath": "staticwebassets/images/masa.jpg"
     },
     {
+      "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/mastercard.png",
+      "PackagePath": "staticwebassets/images/mastercard.png"
+    },
+    {
+      "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/paypal.png",
+      "PackagePath": "staticwebassets/images/paypal.png"
+    },
+    {
       "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/sandalye.jpg",
       "PackagePath": "staticwebassets/images/sandalye.jpg"
     },
@@ -47,6 +43,10 @@
     {
       "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/slider2.jpg",
       "PackagePath": "staticwebassets/images/slider2.jpg"
+    },
+    {
+      "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/visa.png",
+      "PackagePath": "staticwebassets/images/visa.png"
     },
     {
       "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/js/fslightbox.js",

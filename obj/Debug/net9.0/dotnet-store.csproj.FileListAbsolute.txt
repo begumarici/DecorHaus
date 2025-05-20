@@ -358,9 +358,6 @@
 /Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/dotnet-store.RazorAssemblyInfo.cs
 /Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/scopedcss/bundle/dotnet-store.styles.css
 /Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-zp9g5yyx4o.gz
-/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/ybqhv9wpbv-vwipl5cvsg.gz
-/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/48lvmql9bb-wqhl0zxvjx.gz
-/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/v6fbf8u7hm-l6j59c68gs.gz
 /Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/2v6xp16du8-61n19gt1b8.gz
 /Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/t7hgfmq9h6-f6guyl0605.gz
 /Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/prp9f1ih76-xtxxf3hu2r.gz

@@ -26,8 +26,6 @@ public class ProductController : Controller
 
         return View(product);
     }
-
-    // Belirli kategoriye ait ürünleri listele
     public IActionResult List(int categoryId)
     {
         var category = _context.Categories.FirstOrDefault(c => c.CategoryId == categoryId);
@@ -45,7 +43,6 @@ public class ProductController : Controller
         return View(products);
     }
 
-    // Tüm ürünleri listele (ÜRÜNLER'e tıklayınca buraya gelsin)
     public IActionResult ListAll()
     {
         var products = _context.Products
@@ -53,6 +50,6 @@ public class ProductController : Controller
             .ToList();
 
         ViewBag.CategoryName = "Tüm Ürünler";
-        return View("List", products); // Aynı List.cshtml görünümünü kullanır
+        return View("List", products); 
     }
 }

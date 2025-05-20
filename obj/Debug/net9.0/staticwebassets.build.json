@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rjI/89llGlA64OWVBAo9lM0JWXKVrSLHY5BrCTpetsA=",
+  "Hash": "DqZPS1+2wUbZNzwVv0RML7tl+StZLeejdTSvtk42vm8=",
   "Source": "dotnet-store",
   "BasePath": "_content/dotnet-store",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-4yioevo4hg.gz",
+      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-zp9g5yyx4o.gz",
       "SourceId": "dotnet-store",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/dotnet-store",
-      "RelativePath": "css/styles#[.{fingerprint=4yioevo4hg}]?.css.gz",
+      "RelativePath": "css/styles#[.{fingerprint=zp9g5yyx4o}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/css/styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "cprpl80zvf",
-      "Integrity": "gG0fwAbrQYwDTL/8Yua9MDixj7g6nDeV0NMoUvV8uH8=",
+      "Fingerprint": "fgy3km5pue",
+      "Integrity": "Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/css/styles.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4yioevo4hg",
-      "Integrity": "FGDKzZQYiyrS68Q5eSdA0Xzdi3/1pjyvd+kC3X3zt/4=",
+      "Fingerprint": "zp9g5yyx4o",
+      "Integrity": "N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/styles.css"
@@ -1508,12 +1508,12 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/masa-lambasi1.jpg",
+      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/dolap.jpg",
       "SourceId": "dotnet-store",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/",
       "BasePath": "_content/dotnet-store",
-      "RelativePath": "images/masa-lambasi1#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/dolap#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1522,19 +1522,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7y2j4oowq9",
-      "Integrity": "r/mCoJIuT3R2pk7nDOupt5/G06w0LNHcfyi3qzOUEgI=",
+      "Fingerprint": "q5swvpmkio",
+      "Integrity": "csaJHIzTiRmz4YIXNteSuv7TCpjph0AWn3/9C9Rll0c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/masa-lambasi1.jpg"
+      "OriginalItemSpec": "wwwroot/images/dolap.jpg"
     },
     {
-      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider1.png",
+      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/koltuk.jpg",
       "SourceId": "dotnet-store",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/",
       "BasePath": "_content/dotnet-store",
-      "RelativePath": "images/slider1#[.{fingerprint}]?.png",
+      "RelativePath": "images/koltuk#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1543,19 +1543,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i34fdpbsqm",
-      "Integrity": "fqN4CAoB8J500yt844Gj/v99XEI5iNlaBVtvlTPmZlQ=",
+      "Fingerprint": "uxg8h9ppep",
+      "Integrity": "wkzYBsQQWZ9iMgI/eTdY2PiM5Dt3CTfIrDEeNADJqgY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/slider1.png"
+      "OriginalItemSpec": "wwwroot/images/koltuk.jpg"
     },
     {
-      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider2.png",
+      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/masa.jpg",
       "SourceId": "dotnet-store",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/",
       "BasePath": "_content/dotnet-store",
-      "RelativePath": "images/slider2#[.{fingerprint}]?.png",
+      "RelativePath": "images/masa#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1564,19 +1564,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fid3lfl7ly",
-      "Integrity": "J0ipnpW4iwgtbJ8D35Sm2kqQeG6OgrxysgZ1a+t0Za0=",
+      "Fingerprint": "3mr3p8kp7y",
+      "Integrity": "dfiW8dQ3FGb+ex7Vv7Jp+LGBvZyZ+R96+m73Ko2vJSU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/slider2.png"
+      "OriginalItemSpec": "wwwroot/images/masa.jpg"
     },
     {
-      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/spiral-masa-lambasi.jpg",
+      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/sandalye.jpg",
       "SourceId": "dotnet-store",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/",
       "BasePath": "_content/dotnet-store",
-      "RelativePath": "images/spiral-masa-lambasi#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/sandalye#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1585,11 +1585,74 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "z701jwwxry",
-      "Integrity": "oZV4SmDPM4+6gPXbu0M86kZv8akXzaUkFr7SMg01jXM=",
+      "Fingerprint": "ckrj3h90lt",
+      "Integrity": "TGmg6hQwD84eZEmWcktHPkyMoq/Z8k82V8Y9GVT/3yA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/spiral-masa-lambasi.jpg"
+      "OriginalItemSpec": "wwwroot/images/sandalye.jpg"
+    },
+    {
+      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/sehpa.jpg",
+      "SourceId": "dotnet-store",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/",
+      "BasePath": "_content/dotnet-store",
+      "RelativePath": "images/sehpa#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qrv4thqjib",
+      "Integrity": "1vrjv6lgvAFDteDJbN/tagPE28ccgT0SFhNntq2iVCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/sehpa.jpg"
+    },
+    {
+      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider1.jpg",
+      "SourceId": "dotnet-store",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/",
+      "BasePath": "_content/dotnet-store",
+      "RelativePath": "images/slider1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uxg8h9ppep",
+      "Integrity": "wkzYBsQQWZ9iMgI/eTdY2PiM5Dt3CTfIrDEeNADJqgY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/slider1.jpg"
+    },
+    {
+      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider2.jpg",
+      "SourceId": "dotnet-store",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/",
+      "BasePath": "_content/dotnet-store",
+      "RelativePath": "images/slider2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qrv4thqjib",
+      "Integrity": "1vrjv6lgvAFDteDJbN/tagPE28ccgT0SFhNntq2iVCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/slider2.jpg"
     },
     {
       "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/js/fslightbox.js",
@@ -2896,13 +2959,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/styles.4yioevo4hg.css",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-4yioevo4hg.gz",
+      "Route": "css/styles.css",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-zp9g5yyx4o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001121076233"
+          "Quality": "0.001438848921"
         }
       ],
       "ResponseHeaders": [
@@ -2912,19 +2975,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "891"
+          "Value": "694"
         },
         {
           "Name": "ETag",
-          "Value": "\"gG0fwAbrQYwDTL/8Yua9MDixj7g6nDeV0NMoUvV8uH8=\""
+          "Value": "\"Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 14:56:38 GMT"
+          "Value": "Tue, 20 May 2025 16:08:33 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2940,26 +3003,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"FGDKzZQYiyrS68Q5eSdA0Xzdi3/1pjyvd+kC3X3zt/4=\""
+          "Value": "W/\"N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "4yioevo4hg"
-        },
-        {
-          "Name": "label",
-          "Value": "css/styles.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-FGDKzZQYiyrS68Q5eSdA0Xzdi3/1pjyvd+kC3X3zt/4="
+          "Value": "sha256-N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4="
         }
       ]
     },
     {
-      "Route": "css/styles.4yioevo4hg.css",
+      "Route": "css/styles.css",
       "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/css/styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2969,7 +3024,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2372"
+          "Value": "2129"
         },
         {
           "Name": "Content-Type",
@@ -2977,11 +3032,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FGDKzZQYiyrS68Q5eSdA0Xzdi3/1pjyvd+kC3X3zt/4=\""
+          "Value": "\"N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 14:56:38 GMT"
+          "Value": "Tue, 20 May 2025 16:08:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-zp9g5yyx4o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 16:08:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.zp9g5yyx4o.css",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-zp9g5yyx4o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001438848921"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 16:08:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zp9g5yyx4o"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.zp9g5yyx4o.css",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/css/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 16:08:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2991,7 +3191,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4yioevo4hg"
+          "Value": "zp9g5yyx4o"
         },
         {
           "Name": "label",
@@ -2999,13 +3199,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FGDKzZQYiyrS68Q5eSdA0Xzdi3/1pjyvd+kC3X3zt/4="
+          "Value": "sha256-N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4="
         }
       ]
     },
     {
-      "Route": "css/styles.4yioevo4hg.css.gz",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-4yioevo4hg.gz",
+      "Route": "css/styles.zp9g5yyx4o.css.gz",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-zp9g5yyx4o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3014,7 +3214,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "891"
+          "Value": "694"
         },
         {
           "Name": "Content-Type",
@@ -3022,11 +3222,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gG0fwAbrQYwDTL/8Yua9MDixj7g6nDeV0NMoUvV8uH8=\""
+          "Value": "\"Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 14:56:38 GMT"
+          "Value": "Tue, 20 May 2025 16:08:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3044,7 +3244,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4yioevo4hg"
+          "Value": "zp9g5yyx4o"
         },
         {
           "Name": "label",
@@ -3052,144 +3252,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gG0fwAbrQYwDTL/8Yua9MDixj7g6nDeV0NMoUvV8uH8="
-        }
-      ]
-    },
-    {
-      "Route": "css/styles.css",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-4yioevo4hg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001121076233"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "891"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gG0fwAbrQYwDTL/8Yua9MDixj7g6nDeV0NMoUvV8uH8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 14:56:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"FGDKzZQYiyrS68Q5eSdA0Xzdi3/1pjyvd+kC3X3zt/4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FGDKzZQYiyrS68Q5eSdA0Xzdi3/1pjyvd+kC3X3zt/4="
-        }
-      ]
-    },
-    {
-      "Route": "css/styles.css",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/css/styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2372"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FGDKzZQYiyrS68Q5eSdA0Xzdi3/1pjyvd+kC3X3zt/4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 14:56:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FGDKzZQYiyrS68Q5eSdA0Xzdi3/1pjyvd+kC3X3zt/4="
-        }
-      ]
-    },
-    {
-      "Route": "css/styles.css.gz",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-4yioevo4hg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "891"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gG0fwAbrQYwDTL/8Yua9MDixj7g6nDeV0NMoUvV8uH8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 14:56:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gG0fwAbrQYwDTL/8Yua9MDixj7g6nDeV0NMoUvV8uH8="
+          "Value": "sha256-Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q="
         }
       ]
     },
@@ -3218,7 +3281,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
+          "Value": "Tue, 20 May 2025 16:08:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3271,7 +3334,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
+          "Value": "Tue, 20 May 2025 16:08:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3308,7 +3371,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
+          "Value": "Tue, 20 May 2025 16:08:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3355,7 +3418,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
+          "Value": "Tue, 20 May 2025 16:08:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3416,7 +3479,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
+          "Value": "Tue, 20 May 2025 16:08:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3461,7 +3524,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Mar 2025 10:56:56 GMT"
+          "Value": "Tue, 20 May 2025 16:08:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4386,8 +4449,8 @@
       ]
     },
     {
-      "Route": "images/masa-lambasi1.7y2j4oowq9.jpg",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/masa-lambasi1.jpg",
+      "Route": "images/dolap.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/dolap.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4396,7 +4459,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "152128"
+          "Value": "106541"
         },
         {
           "Name": "Content-Type",
@@ -4404,56 +4467,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r/mCoJIuT3R2pk7nDOupt5/G06w0LNHcfyi3qzOUEgI=\""
+          "Value": "\"csaJHIzTiRmz4YIXNteSuv7TCpjph0AWn3/9C9Rll0c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:19:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7y2j4oowq9"
-        },
-        {
-          "Name": "label",
-          "Value": "images/masa-lambasi1.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-r/mCoJIuT3R2pk7nDOupt5/G06w0LNHcfyi3qzOUEgI="
-        }
-      ]
-    },
-    {
-      "Route": "images/masa-lambasi1.jpg",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/masa-lambasi1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "152128"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r/mCoJIuT3R2pk7nDOupt5/G06w0LNHcfyi3qzOUEgI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:19:10 GMT"
+          "Value": "Tue, 20 May 2025 14:58:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4463,13 +4481,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-r/mCoJIuT3R2pk7nDOupt5/G06w0LNHcfyi3qzOUEgI="
+          "Value": "sha256-csaJHIzTiRmz4YIXNteSuv7TCpjph0AWn3/9C9Rll0c="
         }
       ]
     },
     {
-      "Route": "images/slider1.i34fdpbsqm.png",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider1.png",
+      "Route": "images/dolap.q5swvpmkio.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/dolap.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4478,171 +4496,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1840028"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fqN4CAoB8J500yt844Gj/v99XEI5iNlaBVtvlTPmZlQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 14:42:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "i34fdpbsqm"
-        },
-        {
-          "Name": "label",
-          "Value": "images/slider1.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-fqN4CAoB8J500yt844Gj/v99XEI5iNlaBVtvlTPmZlQ="
-        }
-      ]
-    },
-    {
-      "Route": "images/slider1.png",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider1.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1840028"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fqN4CAoB8J500yt844Gj/v99XEI5iNlaBVtvlTPmZlQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 14:42:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fqN4CAoB8J500yt844Gj/v99XEI5iNlaBVtvlTPmZlQ="
-        }
-      ]
-    },
-    {
-      "Route": "images/slider2.fid3lfl7ly.png",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider2.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1146706"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"J0ipnpW4iwgtbJ8D35Sm2kqQeG6OgrxysgZ1a+t0Za0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 14:43:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fid3lfl7ly"
-        },
-        {
-          "Name": "label",
-          "Value": "images/slider2.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-J0ipnpW4iwgtbJ8D35Sm2kqQeG6OgrxysgZ1a+t0Za0="
-        }
-      ]
-    },
-    {
-      "Route": "images/slider2.png",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider2.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1146706"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"J0ipnpW4iwgtbJ8D35Sm2kqQeG6OgrxysgZ1a+t0Za0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 14:43:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-J0ipnpW4iwgtbJ8D35Sm2kqQeG6OgrxysgZ1a+t0Za0="
-        }
-      ]
-    },
-    {
-      "Route": "images/spiral-masa-lambasi.jpg",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/spiral-masa-lambasi.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1119565"
+          "Value": "106541"
         },
         {
           "Name": "Content-Type",
@@ -4650,48 +4504,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oZV4SmDPM4+6gPXbu0M86kZv8akXzaUkFr7SMg01jXM=\""
+          "Value": "\"csaJHIzTiRmz4YIXNteSuv7TCpjph0AWn3/9C9Rll0c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:21:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-oZV4SmDPM4+6gPXbu0M86kZv8akXzaUkFr7SMg01jXM="
-        }
-      ]
-    },
-    {
-      "Route": "images/spiral-masa-lambasi.z701jwwxry.jpg",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/spiral-masa-lambasi.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1119565"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oZV4SmDPM4+6gPXbu0M86kZv8akXzaUkFr7SMg01jXM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 19 May 2025 11:21:36 GMT"
+          "Value": "Tue, 20 May 2025 14:58:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4701,15 +4518,507 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z701jwwxry"
+          "Value": "q5swvpmkio"
         },
         {
           "Name": "label",
-          "Value": "images/spiral-masa-lambasi.jpg"
+          "Value": "images/dolap.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-oZV4SmDPM4+6gPXbu0M86kZv8akXzaUkFr7SMg01jXM="
+          "Value": "sha256-csaJHIzTiRmz4YIXNteSuv7TCpjph0AWn3/9C9Rll0c="
+        }
+      ]
+    },
+    {
+      "Route": "images/koltuk.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/koltuk.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wkzYBsQQWZ9iMgI/eTdY2PiM5Dt3CTfIrDEeNADJqgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:25:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wkzYBsQQWZ9iMgI/eTdY2PiM5Dt3CTfIrDEeNADJqgY="
+        }
+      ]
+    },
+    {
+      "Route": "images/koltuk.uxg8h9ppep.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/koltuk.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wkzYBsQQWZ9iMgI/eTdY2PiM5Dt3CTfIrDEeNADJqgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:25:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uxg8h9ppep"
+        },
+        {
+          "Name": "label",
+          "Value": "images/koltuk.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wkzYBsQQWZ9iMgI/eTdY2PiM5Dt3CTfIrDEeNADJqgY="
+        }
+      ]
+    },
+    {
+      "Route": "images/masa.3mr3p8kp7y.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/masa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfiW8dQ3FGb+ex7Vv7Jp+LGBvZyZ+R96+m73Ko2vJSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 15:05:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3mr3p8kp7y"
+        },
+        {
+          "Name": "label",
+          "Value": "images/masa.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dfiW8dQ3FGb+ex7Vv7Jp+LGBvZyZ+R96+m73Ko2vJSU="
+        }
+      ]
+    },
+    {
+      "Route": "images/masa.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/masa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dfiW8dQ3FGb+ex7Vv7Jp+LGBvZyZ+R96+m73Ko2vJSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 15:05:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dfiW8dQ3FGb+ex7Vv7Jp+LGBvZyZ+R96+m73Ko2vJSU="
+        }
+      ]
+    },
+    {
+      "Route": "images/sandalye.ckrj3h90lt.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/sandalye.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TGmg6hQwD84eZEmWcktHPkyMoq/Z8k82V8Y9GVT/3yA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:55:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ckrj3h90lt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sandalye.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TGmg6hQwD84eZEmWcktHPkyMoq/Z8k82V8Y9GVT/3yA="
+        }
+      ]
+    },
+    {
+      "Route": "images/sandalye.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/sandalye.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TGmg6hQwD84eZEmWcktHPkyMoq/Z8k82V8Y9GVT/3yA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:55:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TGmg6hQwD84eZEmWcktHPkyMoq/Z8k82V8Y9GVT/3yA="
+        }
+      ]
+    },
+    {
+      "Route": "images/sehpa.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/sehpa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1vrjv6lgvAFDteDJbN/tagPE28ccgT0SFhNntq2iVCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:38:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1vrjv6lgvAFDteDJbN/tagPE28ccgT0SFhNntq2iVCA="
+        }
+      ]
+    },
+    {
+      "Route": "images/sehpa.qrv4thqjib.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/sehpa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1vrjv6lgvAFDteDJbN/tagPE28ccgT0SFhNntq2iVCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:38:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrv4thqjib"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sehpa.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1vrjv6lgvAFDteDJbN/tagPE28ccgT0SFhNntq2iVCA="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider1.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wkzYBsQQWZ9iMgI/eTdY2PiM5Dt3CTfIrDEeNADJqgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:28:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wkzYBsQQWZ9iMgI/eTdY2PiM5Dt3CTfIrDEeNADJqgY="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider1.uxg8h9ppep.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wkzYBsQQWZ9iMgI/eTdY2PiM5Dt3CTfIrDEeNADJqgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:28:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uxg8h9ppep"
+        },
+        {
+          "Name": "label",
+          "Value": "images/slider1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wkzYBsQQWZ9iMgI/eTdY2PiM5Dt3CTfIrDEeNADJqgY="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider2.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1vrjv6lgvAFDteDJbN/tagPE28ccgT0SFhNntq2iVCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:38:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1vrjv6lgvAFDteDJbN/tagPE28ccgT0SFhNntq2iVCA="
+        }
+      ]
+    },
+    {
+      "Route": "images/slider2.qrv4thqjib.jpg",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1vrjv6lgvAFDteDJbN/tagPE28ccgT0SFhNntq2iVCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 14:38:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrv4thqjib"
+        },
+        {
+          "Name": "label",
+          "Value": "images/slider2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1vrjv6lgvAFDteDJbN/tagPE28ccgT0SFhNntq2iVCA="
         }
       ]
     },

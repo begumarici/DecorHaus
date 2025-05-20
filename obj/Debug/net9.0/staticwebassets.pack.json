@@ -21,20 +21,32 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/masa-lambasi1.jpg",
-      "PackagePath": "staticwebassets/images/masa-lambasi1.jpg"
+      "Id": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/dolap.jpg",
+      "PackagePath": "staticwebassets/images/dolap.jpg"
     },
     {
-      "Id": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider1.png",
-      "PackagePath": "staticwebassets/images/slider1.png"
+      "Id": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/koltuk.jpg",
+      "PackagePath": "staticwebassets/images/koltuk.jpg"
     },
     {
-      "Id": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider2.png",
-      "PackagePath": "staticwebassets/images/slider2.png"
+      "Id": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/masa.jpg",
+      "PackagePath": "staticwebassets/images/masa.jpg"
     },
     {
-      "Id": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/spiral-masa-lambasi.jpg",
-      "PackagePath": "staticwebassets/images/spiral-masa-lambasi.jpg"
+      "Id": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/sandalye.jpg",
+      "PackagePath": "staticwebassets/images/sandalye.jpg"
+    },
+    {
+      "Id": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/sehpa.jpg",
+      "PackagePath": "staticwebassets/images/sehpa.jpg"
+    },
+    {
+      "Id": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider1.jpg",
+      "PackagePath": "staticwebassets/images/slider1.jpg"
+    },
+    {
+      "Id": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/images/slider2.jpg",
+      "PackagePath": "staticwebassets/images/slider2.jpg"
     },
     {
       "Id": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/js/fslightbox.js",

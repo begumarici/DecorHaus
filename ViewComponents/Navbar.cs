@@ -17,13 +17,12 @@ namespace dotnet_store.ViewComponents
         {
             var categories = _context.Categories.ToList();
 
-            // Sepeti session'dan al
             var cart = HttpContext.Session.GetObject<List<CartItem>>("cart") ?? new List<CartItem>();
 
-            // ViewBag üzerinden sepet öğe sayısını gönder
+
             ViewBag.CartCount = cart.Sum(i => i.Quantity);
 
-            return View(categories); // Views/Shared/Components/Navbar/Default.cshtml
+            return View(categories); 
         }
     }
 }

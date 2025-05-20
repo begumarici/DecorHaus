@@ -31,14 +31,14 @@ public class HomeController : Controller
     [HttpPost]
     public IActionResult Contact(ContactFormModel model)
     {
-        if (model.Captcha != "12") // Sabit örnek: 6+6
+        if (model.Captcha != "12") 
         {
             ModelState.AddModelError("Captcha", "Doğrulama hatalı.");
         }
 
         if (ModelState.IsValid)
         {
-            // Mail gönderimi yapılabilir burada (şu an sadece teşekkür mesajı göstereceğiz)
+
             TempData["Success"] = "Mesajınız iletilmiştir, teşekkür ederiz!";
             return RedirectToAction("Contact");
         }

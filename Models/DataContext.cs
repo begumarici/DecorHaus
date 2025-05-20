@@ -9,6 +9,7 @@ namespace dotnet_store.Models
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Slider> Sliders { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -24,8 +25,8 @@ namespace dotnet_store.Models
                 }
             );
 
-                modelBuilder.Entity<Product>().HasData(
-                new List<Product> {
+            modelBuilder.Entity<Product>().HasData(
+            new List<Product> {
                     new Product {
                         ProductId = 1,
                         Name = "İskandinav Koltuk",
@@ -66,8 +67,8 @@ namespace dotnet_store.Models
                         ImageUrl = "/images/dolap.jpg",
                         CategoryId = 5
                     }
-                }
-            );
+            }
+        );
 
             modelBuilder.Entity<Slider>().HasData(
                 new Slider
@@ -88,6 +89,11 @@ namespace dotnet_store.Models
                     DisplayIndex = 1,
                     IsActive = true
                 }
+            );
+
+            modelBuilder.Entity<User>().HasData(
+                new User { UserId = 1, Username = "admin", Password = "1234", Role="admin" },
+                new User { UserId = 2, Username = "begum", Password = "5678", Role="user"}
             );
         }
     }

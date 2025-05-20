@@ -217,4 +217,4 @@
 /Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/dotnet-store.pdb
 /Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/dotnet-store.genruntimeconfig.cache
 /Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/ref/dotnet-store.dll
-/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-zp9g5yyx4o.gz
+/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-u792ft2txm.gz

@@ -30,10 +30,13 @@
     <span class="carousel-control-next-icon"></span>
 </button>
 
-    <div class="carousel-indicators">
-        @for (int i = 0; i < Model.Count; i++)
-        {
-            <button type="button" data-bs-target="#mainSlider" data-bs-slide-to="@i" class="@(i == 0 ? "active" : "")"></button>
-        }
-    </div>
+<div class="carousel-indicators">
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        <button type="button" data-bs-target="#mainSlider" data-bs-slide-to="@i"
+                class="@(i == 0 ? "active" : "")"
+                style="background-color: black; width: 12px; height: 12px; border-radius: 50%; opacity: @(i == 0 ? "1" : "0.6");">
+        </button>
+    }
+</div>
 </div>

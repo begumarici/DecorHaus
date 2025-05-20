@@ -13,16 +13,19 @@ namespace dotnet_store.ViewComponents
             _context = context;
         }
 
-        public IViewComponentResult Invoke()
-        {
-            var categories = _context.Categories.ToList();
+    public IViewComponentResult Invoke()
+    {
+        var categories = _context.Categories.ToList();
+        var cart = HttpContext.Session.GetObject<List<CartItem>>("cart") ?? new List<CartItem>();
 
-            var cart = HttpContext.Session.GetObject<List<CartItem>>("cart") ?? new List<CartItem>();
+        ViewBag.CartCount = cart.Sum(i => i.Quantity);
 
+        // Kullanıcıyı kontrol et
+        var currentUser = HttpContext.Session.GetString("user");
+        ViewBag.IsAdmin = currentUser == "admin";
 
-            ViewBag.CartCount = cart.Sum(i => i.Quantity);
-
-            return View(categories); 
-        }
+        return View(categories);
+    }
+        
     }
 }

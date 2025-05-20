@@ -24,6 +24,12 @@
                 <li class="nav-item">
                     <a class="nav-link text-secondary" asp-controller="Home" asp-action="Contact">İLETİŞİM</a>
                 </li>
+                @if (Context.Session.GetString("user") == "admin")
+                {
+                    <li class="nav-item">
+                        <a class="nav-link text-secondary fw-bold" asp-controller="Product" asp-action="AdminList">ÜRÜNLERİ DÜZENLE</a>
+                    </li>
+                }
             </ul>
         </div>
 

@@ -3084,11 +3084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/dotnet-store.csproj",
+      "projectUniqueName": "/Users/begumarici/Desktop/q/dotnet-store/dotnet-store.csproj",
       "projectName": "dotnet-store",
-      "projectPath": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/dotnet-store.csproj",
+      "projectPath": "/Users/begumarici/Desktop/q/dotnet-store/dotnet-store.csproj",
       "packagesPath": "/Users/begumarici/.nuget/packages/",
-      "outputPath": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/",
+      "outputPath": "/Users/begumarici/Desktop/q/dotnet-store/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/begumarici/.nuget/NuGet/NuGet.Config"

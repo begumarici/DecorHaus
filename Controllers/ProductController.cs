@@ -1,55 +1,144 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using dotnet_store.Models;
 
-namespace dotnet_store.Controllers;
-
-public class ProductController : Controller
+namespace dotnet_store.Controllers
 {
-    private readonly DataContext _context;
-
-    public ProductController(DataContext context)
+    public class ProductController : Controller
     {
-        _context = context;
-    }
+        private readonly DataContext _context;
 
-    public IActionResult Details(int id)
-    {
-        var product = _context.Products
-            .Include(p => p.Category)
-            .FirstOrDefault(p => p.ProductId == id);
-
-        if (product == null)
+        public ProductController(DataContext context)
         {
-            return RedirectToAction("Index", "Home");
+            _context = context;
         }
 
-        return View(product);
-    }
-    public IActionResult List(int categoryId)
-    {
-        var category = _context.Categories.FirstOrDefault(c => c.CategoryId == categoryId);
-        if (category == null)
+        public IActionResult Details(int id)
         {
-            return RedirectToAction("Index", "Home");
+            var product = _context.Products
+                .Include(p => p.Category)
+                .FirstOrDefault(p => p.ProductId == id);
+
+            if (product == null)
+                return RedirectToAction("Index", "Home");
+
+            return View(product);
         }
 
-        var products = _context.Products
-            .Include(p => p.Category)
-            .Where(p => p.CategoryId == categoryId)
-            .ToList();
+        public IActionResult List(int categoryId)
+        {
+            var category = _context.Categories.FirstOrDefault(c => c.CategoryId == categoryId);
+            if (category == null)
+                return RedirectToAction("Index", "Home");
 
-        ViewBag.CategoryName = category.CategoryName;
-        return View(products);
-    }
+            var products = _context.Products
+                .Include(p => p.Category)
+                .Where(p => p.CategoryId == categoryId)
+                .ToList();
 
-    public IActionResult ListAll()
-    {
-        var products = _context.Products
-            .Include(p => p.Category)
-            .ToList();
+            ViewBag.CategoryName = category.CategoryName;
+            return View(products);
+        }
 
-        ViewBag.CategoryName = "Tüm Ürünler";
-        return View("List", products); 
+        public IActionResult ListAll()
+        {
+            var products = _context.Products.Include(p => p.Category).ToList();
+            ViewBag.CategoryName = "Tüm Ürünler";
+            return View("List", products);
+        }
+
+        public IActionResult AdminList()
+        {
+            if (HttpContext.Session.GetString("role") != "admin")
+                return RedirectToAction("Login", "Account");
+
+            var products = _context.Products.Include(p => p.Category).ToList();
+            return View(products);
+        }
+
+        [HttpGet]
+        public IActionResult Add()
+        {
+            if (HttpContext.Session.GetString("role") != "admin")
+                return RedirectToAction("Login", "Account");
+
+            ViewBag.Categories = GetSelectListCategories();
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Add(Product product)
+        {
+            if (HttpContext.Session.GetString("role") != "admin")
+                return RedirectToAction("Login", "Account");
+
+            if (ModelState.IsValid)
+            {
+                _context.Products.Add(product);
+                _context.SaveChanges();
+                return RedirectToAction("AdminList");
+            }
+
+            ViewBag.Categories = GetSelectListCategories();
+            return View(product);
+        }
+
+        [HttpGet]
+        public IActionResult Edit(int id)
+        {
+            if (HttpContext.Session.GetString("role") != "admin")
+                return RedirectToAction("Login", "Account");
+
+            var product = _context.Products.Find(id);
+            if (product == null) return NotFound();
+
+            ViewBag.Categories = GetSelectListCategories();
+            return View(product);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Product product)
+        {
+            if (HttpContext.Session.GetString("role") != "admin")
+                return RedirectToAction("Login", "Account");
+
+            if (ModelState.IsValid)
+            {
+                _context.Products.Update(product);
+                _context.SaveChanges();
+                return RedirectToAction("AdminList");
+            }
+
+            ViewBag.Categories = GetSelectListCategories();
+            return View(product);
+        }
+
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            if (HttpContext.Session.GetString("role") != "admin")
+                return RedirectToAction("Login", "Account");
+
+            var product = _context.Products.Find(id);
+            if (product != null)
+            {
+                _context.Products.Remove(product);
+                _context.SaveChanges();
+            }
+
+            return RedirectToAction("AdminList");
+        }
+
+        // ✅ Yardımcı fonksiyon: SelectListItem listesi üretir
+        private List<SelectListItem> GetSelectListCategories()
+        {
+            return _context.Categories
+                .Select(c => new SelectListItem
+                {
+                    Value = c.CategoryId.ToString(),
+                    Text = c.CategoryName
+                }).ToList();
+        }
     }
 }

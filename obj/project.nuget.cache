@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ETZCgytXU0Q=",
+  "dgSpecHash": "9G8JUETX5YY=",
   "success": true,
-  "projectFilePath": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/dotnet-store.csproj",
+  "projectFilePath": "/Users/begumarici/Desktop/q/dotnet-store/dotnet-store.csproj",
   "expectedPackageFiles": [
     "/Users/begumarici/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/begumarici/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

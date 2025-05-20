@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NwYociPW73AhhKgn4d/jYI19FD6LzE5C8rjdosinFtQ=",
+  "Hash": "nNw7PoAZggw/TWh3/sYy9VivkyU4t/GvnQxM6B8jFLw=",
   "Source": "dotnet-store",
   "BasePath": "_content/dotnet-store",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-u792ft2txm.gz",
+      "Identity": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-zp9g5yyx4o.gz",
       "SourceId": "dotnet-store",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/dotnet-store",
-      "RelativePath": "css/styles#[.{fingerprint=u792ft2txm}]?.css.gz",
+      "RelativePath": "css/styles#[.{fingerprint=zp9g5yyx4o}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/css/styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rxiev0jrwp",
-      "Integrity": "X8Z3PIgV0bgiDCy4tVzeq4tz5eRMgG902bmCzePhXuI=",
+      "Fingerprint": "fgy3km5pue",
+      "Integrity": "Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/css/styles.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "u792ft2txm",
-      "Integrity": "1gFlCGqQRSz9WnTZMgd63bKeBwQU089eaifsHB6uQn8=",
+      "Fingerprint": "zp9g5yyx4o",
+      "Integrity": "N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/styles.css"
@@ -2960,12 +2960,12 @@
   "Endpoints": [
     {
       "Route": "css/styles.css",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-u792ft2txm.gz",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-zp9g5yyx4o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001432664756"
+          "Quality": "0.001438848921"
         }
       ],
       "ResponseHeaders": [
@@ -2975,15 +2975,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "697"
+          "Value": "694"
         },
         {
           "Name": "ETag",
-          "Value": "\"X8Z3PIgV0bgiDCy4tVzeq4tz5eRMgG902bmCzePhXuI=\""
+          "Value": "\"Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 18:07:24 GMT"
+          "Value": "Tue, 20 May 2025 18:28:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3003,13 +3003,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1gFlCGqQRSz9WnTZMgd63bKeBwQU089eaifsHB6uQn8=\""
+          "Value": "W/\"N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1gFlCGqQRSz9WnTZMgd63bKeBwQU089eaifsHB6uQn8="
+          "Value": "sha256-N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4="
         }
       ]
     },
@@ -3024,7 +3024,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2131"
+          "Value": "2129"
         },
         {
           "Name": "Content-Type",
@@ -3032,11 +3032,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1gFlCGqQRSz9WnTZMgd63bKeBwQU089eaifsHB6uQn8=\""
+          "Value": "\"N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 18:07:24 GMT"
+          "Value": "Tue, 20 May 2025 18:28:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3046,13 +3046,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1gFlCGqQRSz9WnTZMgd63bKeBwQU089eaifsHB6uQn8="
+          "Value": "sha256-N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4="
         }
       ]
     },
     {
       "Route": "css/styles.css.gz",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-u792ft2txm.gz",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-zp9g5yyx4o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3061,7 +3061,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "697"
+          "Value": "694"
         },
         {
           "Name": "Content-Type",
@@ -3069,11 +3069,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X8Z3PIgV0bgiDCy4tVzeq4tz5eRMgG902bmCzePhXuI=\""
+          "Value": "\"Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 18:07:24 GMT"
+          "Value": "Tue, 20 May 2025 18:28:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3091,18 +3091,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-X8Z3PIgV0bgiDCy4tVzeq4tz5eRMgG902bmCzePhXuI="
+          "Value": "sha256-Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q="
         }
       ]
     },
     {
-      "Route": "css/styles.u792ft2txm.css",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-u792ft2txm.gz",
+      "Route": "css/styles.zp9g5yyx4o.css",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-zp9g5yyx4o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001432664756"
+          "Quality": "0.001438848921"
         }
       ],
       "ResponseHeaders": [
@@ -3112,15 +3112,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "697"
+          "Value": "694"
         },
         {
           "Name": "ETag",
-          "Value": "\"X8Z3PIgV0bgiDCy4tVzeq4tz5eRMgG902bmCzePhXuI=\""
+          "Value": "\"Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 18:07:24 GMT"
+          "Value": "Tue, 20 May 2025 18:28:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3140,13 +3140,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"1gFlCGqQRSz9WnTZMgd63bKeBwQU089eaifsHB6uQn8=\""
+          "Value": "W/\"N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u792ft2txm"
+          "Value": "zp9g5yyx4o"
         },
         {
           "Name": "label",
@@ -3154,12 +3154,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1gFlCGqQRSz9WnTZMgd63bKeBwQU089eaifsHB6uQn8="
+          "Value": "sha256-N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4="
         }
       ]
     },
     {
-      "Route": "css/styles.u792ft2txm.css",
+      "Route": "css/styles.zp9g5yyx4o.css",
       "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/wwwroot/css/styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3169,7 +3169,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2131"
+          "Value": "2129"
         },
         {
           "Name": "Content-Type",
@@ -3177,11 +3177,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1gFlCGqQRSz9WnTZMgd63bKeBwQU089eaifsHB6uQn8=\""
+          "Value": "\"N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 18:07:24 GMT"
+          "Value": "Tue, 20 May 2025 18:28:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3191,7 +3191,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u792ft2txm"
+          "Value": "zp9g5yyx4o"
         },
         {
           "Name": "label",
@@ -3199,13 +3199,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-1gFlCGqQRSz9WnTZMgd63bKeBwQU089eaifsHB6uQn8="
+          "Value": "sha256-N+K/zGhzvTRdFnnguG+/8TU49BFVbgzrIdJoKJ3pgJ4="
         }
       ]
     },
     {
-      "Route": "css/styles.u792ft2txm.css.gz",
-      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-u792ft2txm.gz",
+      "Route": "css/styles.zp9g5yyx4o.css.gz",
+      "AssetFile": "/Users/begumarici/Desktop/4.2/web/WEEKLY ADDITIONAL COURSE MATERIALS (READING TEXTS  VIDEO)-20250514/3_23_benzer_urunlerin_listelenmesi/dotnet-store/obj/Debug/net9.0/compressed/1g6igrmttz-zp9g5yyx4o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3214,7 +3214,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "697"
+          "Value": "694"
         },
         {
           "Name": "Content-Type",
@@ -3222,11 +3222,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"X8Z3PIgV0bgiDCy4tVzeq4tz5eRMgG902bmCzePhXuI=\""
+          "Value": "\"Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 18:07:24 GMT"
+          "Value": "Tue, 20 May 2025 18:28:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3244,7 +3244,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u792ft2txm"
+          "Value": "zp9g5yyx4o"
         },
         {
           "Name": "label",
@@ -3252,7 +3252,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-X8Z3PIgV0bgiDCy4tVzeq4tz5eRMgG902bmCzePhXuI="
+          "Value": "sha256-Lw0TRGOTro5lMj27YE7GoXZmkn3vDQQaUnc5ZZTQX3Q="
         }
       ]
     },

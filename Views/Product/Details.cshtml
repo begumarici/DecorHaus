@@ -5,7 +5,7 @@
 
 <div class="container py-5">
     <div class="row g-4">
-        <!-- galeri -->
+
         <div class="col-md-6">
             <div class="gallery-wrap">
                 <div class="img-big-wrap mb-3">
@@ -20,7 +20,7 @@
             </div>
         </div>
 
-        <!--ürün bilgisi -->
+
         <div class="col-md-6">
             <h2>@Model.Name</h2>
 
@@ -28,14 +28,6 @@
                 <del>₺1.250,00</del> <span class="fs-4 fw-bold text-dark ms-2">@Model.Price.ToString("C")</span>
             </p>
             <p class="text-muted">@Model.Description</p>
-
-            <div class="mb-3">
-                <label class="form-label fw-bold">Renk Seçenekleri:</label>
-                <div class="d-flex gap-2">
-                    <button class="btn btn-outline-dark rounded-circle" style="width: 30px; height: 30px;"></button>
-                    <button class="btn btn-outline-warning rounded-circle" style="width: 30px; height: 30px;"></button>
-                </div>
-            </div>
 
             <div class="mb-3">
                 <span class="badge bg-success"><i class="fa-solid fa-check"></i> Stokta mevcut</span>
@@ -46,7 +38,6 @@
                     <input type="hidden" name="id" value="@Model.ProductId" />
                     <button type="submit" class="btn btn-outline-dark fw-bold">SEPETE EKLE</button>
                 </form>
-                <a href="/Cart/Index" class="btn btn-light fw-bold">HEMEN AL</a>
             </div>
 
             <p><strong>Ürün Kodu:</strong> DH-@Model.ProductId</p>

@@ -599,6 +599,88 @@
       ]
     },
     {
+      "Route": "images/about.jpg",
+      "AssetFile": "images/about.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"broZ62PI+PN2Fyn8sSEnv6sOTvpo7dFZy1EXtA7cwKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 06:39:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-broZ62PI+PN2Fyn8sSEnv6sOTvpo7dFZy1EXtA7cwKw="
+        }
+      ]
+    },
+    {
+      "Route": "images/about.uovc72izab.jpg",
+      "AssetFile": "images/about.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"broZ62PI+PN2Fyn8sSEnv6sOTvpo7dFZy1EXtA7cwKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 06:39:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uovc72izab"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-broZ62PI+PN2Fyn8sSEnv6sOTvpo7dFZy1EXtA7cwKw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/about.jpg"
+        }
+      ]
+    },
+    {
       "Route": "images/dolap.jpg",
       "AssetFile": "images/dolap.jpg",
       "Selectors": [],

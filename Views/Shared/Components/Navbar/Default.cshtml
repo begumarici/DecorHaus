@@ -4,12 +4,10 @@
     <div class="container">
         <a class="navbar-brand fw-bold fs-4 text-dark" href="/">DecorHaus.</a>
 
-        <!-- Hamburger toggle -->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar">
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <!-- Menü -->
         <div class="collapse navbar-collapse justify-content-center" id="mainNavbar">
             <ul class="navbar-nav gap-3">
                 <li class="nav-item">
@@ -19,7 +17,7 @@
                     <a class="nav-link text-secondary fw-bold" asp-controller="Product" asp-action="ListAll">ÜRÜNLER</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-secondary" href="#">HAKKIMIZDA</a>
+                    <a class="nav-link text-secondary" asp-controller="Home" asp-action="About">HAKKIMIZDA</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-secondary" asp-controller="Home" asp-action="Contact">İLETİŞİM</a>
@@ -33,7 +31,6 @@
             </ul>
         </div>
 
-        <!-- Sağ ikonlar -->
         <div class="d-flex gap-3 align-items-center">
             <form asp-controller="Product" asp-action="Search" method="get" class="d-flex" role="search">
                 <input class="form-control form-control-sm me-2" type="search" name="q" placeholder="Ara..." />

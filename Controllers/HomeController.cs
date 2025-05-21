@@ -31,7 +31,7 @@ public class HomeController : Controller
     [HttpPost]
     public IActionResult Contact(ContactFormModel model)
     {
-        if (model.Captcha != "12") 
+        if (model.Captcha != "12")
         {
             ModelState.AddModelError("Captcha", "Doğrulama hatalı.");
         }
@@ -44,5 +44,10 @@ public class HomeController : Controller
         }
 
         return View(model);
+    }
+    
+    public IActionResult About()
+    {
+        return View();
     }
 }

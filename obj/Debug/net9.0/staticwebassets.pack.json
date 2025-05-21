@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/about.jpg",
+      "PackagePath": "staticwebassets/images/about.jpg"
+    },
+    {
       "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/images/dolap.jpg",
       "PackagePath": "staticwebassets/images/dolap.jpg"
     },

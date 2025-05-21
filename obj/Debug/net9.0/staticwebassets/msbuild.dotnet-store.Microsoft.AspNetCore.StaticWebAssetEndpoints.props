@@ -144,6 +144,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bKnvO1jYB7Lao9yUL0RBadWNpAcrlvLWPacl1lGVCMQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"70898"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bKnvO1jYB7Lao9yUL0RBadWNpAcrlvLWPacl1lGVCMQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 20 May 2025 19:52:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dotnet-store/index.0xi69ykfm5.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0xi69ykfm5"},{"Name":"integrity","Value":"sha256-RBayEqmTNv0eZ8iuooolyugJrAkei4vvCvIXBa5IfFA="},{"Name":"label","Value":"_content/dotnet-store/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7849"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022RBayEqmTNv0eZ8iuooolyugJrAkei4vvCvIXBa5IfFA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 20 May 2025 20:25:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/dotnet-store/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RBayEqmTNv0eZ8iuooolyugJrAkei4vvCvIXBa5IfFA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7849"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022RBayEqmTNv0eZ8iuooolyugJrAkei4vvCvIXBa5IfFA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 20 May 2025 20:25:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/dotnet-store/js/fslightbox.f6guyl0605.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\fslightbox.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

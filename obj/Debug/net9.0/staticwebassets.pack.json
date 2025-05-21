@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets/images/visa.png"
     },
     {
+      "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
       "Id": "/Users/begumarici/Desktop/q/dotnet-store/wwwroot/js/fslightbox.js",
       "PackagePath": "staticwebassets/js/fslightbox.js"
     },

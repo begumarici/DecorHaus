@@ -33,7 +33,7 @@
                                 <a asp-action="Increase" asp-route-id="@item.ProductId" class="btn btn-outline-secondary">+</a>
                             </div>
                         </td>
-                        <td>@(item.Price * item.Quantity).ToString("C")</td>
+                       <td>@((item.Price * item.Quantity).ToString("C"))</td>
                             <td>
                             <a asp-action="Remove" asp-route-id="@item.ProductId" class="btn btn-sm btn-outline-danger">×</a>
                         </td>
@@ -51,7 +51,7 @@
                         <li class="d-flex justify-content-between">
                             <span>Ara Toplam</span>
                             <strong>
-                                @Model.Sum(i => i.Price * i.Quantity).ToString("C")
+                               <strong>@(Model.Sum(i => i.Price * i.Quantity).ToString("C"))</strong>
                             </strong>
                         </li>
                         <li class="d-flex justify-content-between small text-muted border-top pt-2">

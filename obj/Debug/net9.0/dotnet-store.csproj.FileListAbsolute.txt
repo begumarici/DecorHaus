@@ -435,3 +435,4 @@
 /Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/dotnet-store.pdb
 /Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/dotnet-store.genruntimeconfig.cache
 /Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/ref/dotnet-store.dll
+/Users/begumarici/Desktop/q/dotnet-store/obj/Debug/net9.0/compressed/phter48qe3-0xi69ykfm5.gz

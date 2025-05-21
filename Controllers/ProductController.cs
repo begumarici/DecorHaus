@@ -152,8 +152,7 @@ namespace dotnet_store.Controllers
 
             return RedirectToAction("AdminList");
         }
-
-        // ✅ Yardımcı fonksiyon: SelectListItem listesi üretir
+        
         private List<SelectListItem> GetSelectListCategories()
         {
             return _context.Categories
